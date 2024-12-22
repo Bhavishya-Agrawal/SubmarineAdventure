@@ -1,0 +1,23 @@
+# ninja log v5
+4	2269	7565494092966916	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	ea3a6abc74a3310e
+80	386	7565494074007325	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	bb684dda154bf7c2
+387	880	7565494078433837	C:/Users/Bhavi/submarine adventure/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/536ha3g0/obj/armeabi-v7a/libswappywrapper.so	eb6f210fe0526caf
+40	2164	7565494091901845	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	972d34db3645a8fc
+51	1589	7565494086024725	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	3b895a4459bf843
+26	1702	7565494087317207	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	73bb8f013f14bb0a
+65	1745	7565494087728612	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	f2df405152d0fdee
+18	1469	7565494084763969	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	e28d6498476a2d87
+12	1874	7565494089039067	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	e9264749039c4905
+32	1572	7565494085872807	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	383d799e9d20655d
+2270	2422	7565494094492893	C:/Users/Bhavi/submarine adventure/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/536ha3g0/obj/armeabi-v7a/libgame.so	8aef7b30ad30dec1
+60	284	7565502012510669	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	bb684dda154bf7c2
+285	444	7565502014157871	C:/Users/Bhavi/submarine adventure/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/536ha3g0/obj/armeabi-v7a/libswappywrapper.so	eb6f210fe0526caf
+19	1018	7565502019752696	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	e28d6498476a2d87
+10	1082	7565502020462025	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	73bb8f013f14bb0a
+37	1103	7565502020653953	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	383d799e9d20655d
+43	1116	7565502020796555	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	3b895a4459bf843
+51	1234	7565502021940277	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	f2df405152d0fdee
+25	1289	7565502022533239	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	e9264749039c4905
+31	1437	7565502024034280	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	972d34db3645a8fc
+5	1506	7565502024680569	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	ea3a6abc74a3310e
+1506	1616	7565502025897334	C:/Users/Bhavi/submarine adventure/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/536ha3g0/obj/armeabi-v7a/libgame.so	8aef7b30ad30dec1
